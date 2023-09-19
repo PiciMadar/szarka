@@ -1,0 +1,55 @@
+body{
+    background-color: aliceblue;
+    color:darkblue;
+}
+
+h2{
+    color:crimson
+}
+
+
+#potcim {
+    margin-left: 250px;
+}
+
+#tablazatkep{
+    width: 230px;
+    height: 153px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#jobbkep{
+    width: 230px;
+    height: 153px;
+    border-style: solid;
+    border-width: 1px;
+    float: right;
+    margin-bottom: 100px;
+}
+
+#table1{
+    width: 400px;
+    margin-left: 450px;
+}
+
+#table2{
+    width: 500px;
+    margin-left: 400px;
+}
+
+.1s{
+
+}
+
+#t2r{
+    margin: 6px;
+}
+
+hr{
+    width: 70%;
+}
+
+#tagolt{
+    padding-top: 15px;
+}
